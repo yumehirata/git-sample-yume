@@ -9,15 +9,6 @@ package jp.co.rakus;
 public class Car {
 	private Integer speed;
 	private String bodyColor;
-	private String carName;
-
-	public String getCarName() {
-		return carName;
-	}
-
-	public void setCarName(String carName) {
-		this.carName = carName;
-	}
 
 	public String getBodyColor() {
 		return bodyColor;
