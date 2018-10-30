@@ -1,5 +1,11 @@
 package jp.co.rakus;
 
+/**
+ * 車の設定を行うクラス.
+ * 
+ * @author rksuser
+ *
+ */
 public class Car {
 	private Integer speed;
 	private String bodyColor;

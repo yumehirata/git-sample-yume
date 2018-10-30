@@ -1,5 +1,11 @@
 package jp.co.rakus.demo;
 
+/**
+ * ユーザーの設定を行うクラス.
+ * 
+ * @author rksuser
+ *
+ */
 public class User {
 	private String name;
 	private Integer age;
